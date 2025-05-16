@@ -9842,7 +9842,7 @@ h6,
 @media (min-width: 992px) {
   .tour-card {
     flex: 1 1 calc(25% - 1rem); /* 4 columns */
-    height: 500px;
+    height: 400px;
   }
   .btn-lainnya {
     font-size: 1rem;
